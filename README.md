@@ -11,5 +11,5 @@ This is my personal portfolio for studying **Data Analysis** and **AI**.
 - Deep learning with PyTorch
 
 ## 🔗 Related
-- 📖 [My study blog](블로그 링크)
+- 📖 [My study blog] https://blog.naver.com/hw_documentary
 - 📊 Projects: See folders by topic!
