@@ -1,1 +1,6 @@
-입문 단계에서 정리한 데이터 분석 실습들입니다.
+# 📘 Data Analysis Intro
+
+Notebooks from my entry-level data analysis portfolio.
+
+This section includes practical projects and hands-on experiments  
+designed to build a strong foundation in data analysis using Python and essential libraries.
