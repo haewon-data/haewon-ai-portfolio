@@ -23,6 +23,11 @@
    - Model comparison with Decision Tree, Random Forest, Gradient Boosting, KNN, XGBoost  
    - Accuracy-based performance summary
 
+6. **06_model_evaluation.ipynb**  
+   - Detailed evaluation using precision, recall, F1 score  
+   - Confusion matrix visualization  
+   - ROC curve and AUC comparison
+
 ---
 
 ## ✨ Skills & Tools Used
@@ -32,16 +37,11 @@
 - Data cleaning and imputation
 - Feature engineering
 - Model building and evaluation
+- Performance metrics and visualization
 
 ---
 
 ## 📈 Next Steps
 
-- Advanced model evaluation (confusion matrix, ROC/AUC, etc.)
-- Hyperparameter tuning and cross-validation
+- Hyperparameter tuning and cross-validation  
 - Final model selection and submission strategy
-
----
-
-This project is part of my beginner data analysis portfolio.  
-More datasets and projects will follow in this repository!
