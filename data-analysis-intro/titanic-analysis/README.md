@@ -1,54 +1,36 @@
-## 📌 Contents
+# 🛳 Titanic Survival Prediction Project
 
-1. **01_EDA.ipynb**  
-   - Initial exploration of key features (Sex, Age, Pclass)  
-   - Survival rate by group and basic visualization
+This repository contains a two-part data science project using the Titanic dataset.
 
-2. **02_variable_relationships.ipynb**  
-   - Relationship analysis with variables like SibSp, Parch, Fare, Embarked  
-   - Correlation heatmaps and grouping
-
-3. **03_missing_value_handling.ipynb**  
-   - Strategic imputation based on data types and variable context  
-   - Median imputation for Age (grouped by Pclass and Sex)  
-   - Mode imputation for Embarked, and feature extraction for Cabin
-
-4. **04_feature_engineering.ipynb**  
-   - Encoding categorical variables  
-   - Constructing new features based on family size, age bins, etc.  
-   - Additional engineered features based on EDA insights
-
-5. **05_modeling.ipynb**  
-   - Train/test split and baseline model (Logistic Regression)  
-   - Model comparison with Decision Tree, Random Forest, Gradient Boosting, KNN, XGBoost  
-   - Accuracy-based performance summary
-
-6. **06_model_evaluation.ipynb**  
-   - Detailed evaluation using precision, recall, F1 score  
-   - Confusion matrix visualization  
-   - ROC curve and AUC comparison
-
-7. **07_final_submission.ipynb**  
-   - Final model selection based on evaluation metrics  
-   - Generation of Kaggle-formatted submission file  
-   - Overall project summary and wrap-up
+- **Project 1**: Beginner-friendly end-to-end model development  
+- **Project 2**: Advanced experiments including tuning and ensembling (in progress)
 
 ---
 
-## ✨ Skills & Tools Used
+## 🧩 Project Overview
 
-- Python (pandas, scikit-learn, xgboost, matplotlib, seaborn)
+| Part      | Notebooks            | Focus                                                             |
+|-----------|----------------------|-------------------------------------------------------------------|
+| Project 1 | 01–07                | EDA, feature engineering, baseline modeling, evaluation, submission |
+| Project 2 | 08–09 (planned)      | Hyperparameter tuning, ensemble methods, cross-validation         |
+
+---
+
+## 🛠 Skills & Tools
+
+- Python (pandas, scikit-learn, xgboost, seaborn, matplotlib)
 - Exploratory Data Analysis (EDA)
-- Data cleaning and imputation
-- Feature engineering
-- Model building and evaluation
-- Performance metrics and visualization
-- Kaggle submission formatting
+- Feature preprocessing and transformation
+- Model training and evaluation (F1 score, ROC AUC)
+- Submission preparation for Kaggle competitions
+- Hyperparameter tuning & ensembling (Project 2)
 
 ---
 
 ## 📈 Beyond This Project
 
-- Hyperparameter tuning and model optimization  
-- Ensembling and stacking approaches  
-- Applying the same workflow to new datasets
+After completing both parts of this project, future directions could include:
+
+- Applying this workflow to new datasets beyond Titanic  
+- Exploring AutoML frameworks and deep learning techniques  
+- Publishing full-scale projects following this documented structure
