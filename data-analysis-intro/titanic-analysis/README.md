@@ -28,6 +28,11 @@
    - Confusion matrix visualization  
    - ROC curve and AUC comparison
 
+7. **07_final_submission.ipynb**  
+   - Final model selection based on evaluation metrics  
+   - Generation of Kaggle-formatted submission file  
+   - Overall project summary and wrap-up
+
 ---
 
 ## ✨ Skills & Tools Used
@@ -38,10 +43,12 @@
 - Feature engineering
 - Model building and evaluation
 - Performance metrics and visualization
+- Kaggle submission formatting
 
 ---
 
-## 📈 Next Steps
+## 📈 Beyond This Project
 
-- Hyperparameter tuning and cross-validation  
-- Final model selection and submission strategy
+- Hyperparameter tuning and model optimization  
+- Ensembling and stacking approaches  
+- Applying the same workflow to new datasets
