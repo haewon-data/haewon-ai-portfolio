@@ -4,17 +4,17 @@ This repository contains a two-part data science project using the Titanic datas
 
 - **Project 1**: Beginner-friendly end-to-end model development  
   _(Public Kaggle score: **0.79186** using GradientBoostingClassifier)_
-- **Project 2**: Advanced experiments including tuning and ensembling  
-  _(Partially completed — hyperparameter tuning done in `08_model_tuning.ipynb`)_
+- **Project 2**: Advanced experiments including hyperparameter tuning and ensemble modeling  
+  _(Fully completed in `08_model_tuning.ipynb` and `09_model_ensembling.ipynb`)_
 
 ---
 
 ## 🧩 Project Overview
 
-| Part      | Notebooks               | Focus                                                                 |
-|-----------|-------------------------|------------------------------------------------------------------------|
-| Project 1 | 01–07                   | EDA, feature engineering, baseline modeling, evaluation, submission   |
-| Project 2 | 08 (done), 09 (planned) | Hyperparameter tuning (GridSearchCV), future ensembling               |
+| Part      | Notebooks       | Focus                                                                 |
+|-----------|------------------|------------------------------------------------------------------------|
+| Project 1 | 01–07            | EDA, feature engineering, baseline modeling, evaluation, submission   |
+| Project 2 | 08–09            | Hyperparameter tuning, ensemble methods, cross-validation              |
 
 ---
 
