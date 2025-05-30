@@ -19,7 +19,7 @@ based on user input (e.g., age, sex, fare, etc.) and a trained ensemble model.
 
 ## ✅ How to Run Locally
 
-```bash
+bash
 # 1. Activate virtual environment (Windows)
 .venv\Scripts\activate
 
@@ -28,5 +28,5 @@ pip install -r requirements.txt
 
 # 3. Launch the app
 streamlit run app.py
-```
+
 
