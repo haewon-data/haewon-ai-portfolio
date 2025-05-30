@@ -19,7 +19,6 @@ based on user input (e.g., age, sex, fare, etc.) and a trained ensemble model.
 
 ## ✅ How to Run Locally
 
-bash
 # 1. Activate virtual environment (Windows)
 .venv\Scripts\activate
 
